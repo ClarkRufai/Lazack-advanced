@@ -4,13 +4,13 @@ const chalk = require('chalk');
 
 //owmner v card
 global.ytname = "YT: Lazaromtaju" //ur yt chanel name
-global.socialm = "GitHub: Lazack28" //ur github or insta name
-global.location = "Tanzania, Dodoma, Kikuyu" //ur location
+global.socialm = "GitHub: ClarkRufai" //ur github or insta name
+global.location = "Africa, Nigeria, Lagos" //ur location
 
 //new
 global.botname = '𝙻𝙰𝚉𝙰𝙲𝙺 𝙰𝙳𝚅𝙰𝙽𝙲𝙴 𝟶𝟶𝟹' //ur bot name
-global.ownernumber = ['255734980103'] //ur owner number, dont add more than one
-global.ownername = '𝙻𝙰𝚉𝙰𝙲𝙺' //ur owner name
+global.ownernumber = ['2347082648559'] //ur owner number, dont add more than one
+global.ownername = '𝐶𝐿𝛥𝑅𝛫 𝑅𝑈𝐹𝛥𝛪' //ur owner name
 global.websitex = "https://youtu.be/@lazaromtaju"
 global.wagc = "https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"
 global.themeemoji = '🪀'
@@ -20,7 +20,7 @@ global.packname = "Sticker By"
 global.author = "Lazack\n\n+255734980103"
 global.creator = "255734980103@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["255734980103"] // Premium User
+global.premium = ["2347082648559"] // Premium User
 
 //channel id
 global.xchannel = {
